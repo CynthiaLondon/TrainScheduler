@@ -1,0 +1,36 @@
+.jumbotron  {
+	background-color:lightblue;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 28px;
+	text-align: center;
+	
+	
+}
+
+.p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 21px;
+	text-align: center;
+	
+
+}
+.jumbotron {
+	margin-top: 30px;
+	
+}
+
+.panel-heading {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.well{
+	padding: -5px;
+}
+
+
+
+thead, tr, label {
+	font-family: Arial, Arial, sans-serif
+
+}
