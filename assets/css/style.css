@@ -1,36 +1,45 @@
 .jumbotron  {
-	background-color:lightblue;
+	background-color:purple !important; 
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size: 28px;
 	text-align: center;
-	
-	
-}
-
-.p {
-	font-family: "Comic Sans MS", cursive, sans-serif;
-	font-size: 21px;
-	text-align: center;
-	
-
-}
-.jumbotron {
 	margin-top: 30px;
 	
 }
 
+
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 21px;
+	text-align: center;
+	color: #A9A9A9;
+}
+
+
 .panel-heading {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 
+
 }
 
-.well{
-	padding: -5px;
+.panel-heading {
+	color: #8B008B !important;
 }
-
 
 
 thead, tr, label {
 	font-family: Arial, Arial, sans-serif
 
+}
+
+#addTrainButton {
+	color: #8B008B !important;
+}
+
+th {
+	color: #8B008B !important;
+}
+
+.control-label {
+	color: #8B008B !important;
 }
